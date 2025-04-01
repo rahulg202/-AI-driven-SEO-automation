@@ -1,0 +1,15 @@
+streamlit
+requests
+beautifulsoup4
+pandas
+matplotlib
+plotly
+google-generativeai
+python-dotenv
+serpapi
+urllib3
+numpy
+pillow
+protobuf
+typing-extensions
+tqdm

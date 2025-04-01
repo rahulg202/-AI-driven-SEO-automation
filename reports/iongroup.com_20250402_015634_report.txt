@@ -1,0 +1,52 @@
+==================================================
+SEO ANALYSIS REPORT
+==================================================
+
+URL: https://iongroup.com/
+Date: 02.April 2025
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+
+
+--------------------------------------------------
+ON-PAGE SEO FACTORS
+--------------------------------------------------
+
+Title Tag: ION: Reinventing the way business is done through automation technology
+Length: 71 characters, 10 words
+Issues:
+  - Title is too long
+
+Meta Description: ION financial software improves decision making, simplifies complicated processes and empowers you by providing the right tools.
+Length: 128 characters, 17 words
+
+Text Content: 900 words
+
+--------------------------------------------------
+SEMANTIC ANALYSIS
+--------------------------------------------------
+
+Top Keywords:
+  - xtp (Count: 18, Density: 2.18%)
+  - products (Count: 16, Density: 1.94%)
+  - client (Count: 16, Density: 1.94%)
+  - management (Count: 14, Density: 1.69%)
+  - view (Count: 14, Density: 1.69%)
+
+Readability Score: 0
+Readability Level: Very Difficult
+
+--------------------------------------------------
+CONTENT STRUCTURE
+--------------------------------------------------
+
+Most Common Words:
+  - and: 37
+  - xtp: 18
+  - products: 16
+  - client: 16
+  - management: 14
+  - view: 14
+  - all: 14
+  - resources: 14
+  - login: 14
+  - risk: 12

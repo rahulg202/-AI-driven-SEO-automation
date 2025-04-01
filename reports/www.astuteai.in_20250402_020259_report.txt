@@ -1,0 +1,58 @@
+==================================================
+SEO ANALYSIS REPORT
+==================================================
+
+URL: https://www.astuteai.in/product/shopfrontai
+Date: 02.April 2025
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+
+
+--------------------------------------------------
+ON-PAGE SEO FACTORS
+--------------------------------------------------
+
+Title Tag: Astute AI
+Length: 9 characters, 2 words
+Issues:
+  - Title is too short
+  - Title has too few words
+
+Meta Description: One stop solution for all your Startup needs
+Length: 44 characters, 8 words
+Issues:
+  - Meta description is too short
+  - Meta description has too few words
+
+Text Content: 166 words
+Issues:
+  - Text length should be more than 400 words
+
+--------------------------------------------------
+SEMANTIC ANALYSIS
+--------------------------------------------------
+
+Top Keywords:
+  - astute (Count: 3, Density: 1.97%)
+  - product (Count: 3, Density: 1.97%)
+  - resources (Count: 3, Density: 1.97%)
+  - your (Count: 3, Density: 1.97%)
+  - time (Count: 3, Density: 1.97%)
+
+Readability Score: 11
+Readability Level: Very Difficult
+
+--------------------------------------------------
+CONTENT STRUCTURE
+--------------------------------------------------
+
+Most Common Words:
+  - and: 8
+  - with: 7
+  - astute: 3
+  - product: 3
+  - resources: 3
+  - your: 3
+  - time: 3
+  - features: 2
+  - the: 2
+  - make: 2

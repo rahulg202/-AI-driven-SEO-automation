@@ -1,0 +1,62 @@
+{
+    "form_data": {
+        "company_name": "astute ai",
+        "website_url": "https://www.astuteai.in/",
+        "industry": "software development",
+        "business_description": "buliding gen ai appl;ications that help in seo",
+        "age_group": [
+            "25-34",
+            "45-54",
+            "35-44",
+            "18-24",
+            "55+"
+        ],
+        "gender": [
+            "Female",
+            "Other",
+            "Male"
+        ],
+        "profession": "startups, busineess",
+        "interests_pain_points": "tedious processing,lack of tech knowldege",
+        "geo_regions": [
+            "Specific Countries",
+            "Specific Cities",
+            "Global"
+        ],
+        "purchasing_behavior": "Online",
+        "main_goals": [
+            "Improve brand visibility",
+            "Reduce bounce rate",
+            "Rank for specific keywords",
+            "Boost sales and conversions",
+            "Increase organic traffic",
+            "Other"
+        ],
+        "seo_type": "Local SEO",
+        "target_keywords": "automate, innovation, execution",
+        "main_competitors": "tredence analytics",
+        "competitor_websites": "no have",
+        "tone": "Formal",
+        "content_types": [
+            "Blogs/Articles",
+            "Case Studies"
+        ],
+        "existing_content": "Yes"
+    },
+    "follow_up_data": {},
+    "insights": [
+        "Your focus on younger demographics suggests social media platforms like Instagram and TikTok could be valuable channels.",
+        "Your target audience includes older demographics who typically value reliability and detailed information.",
+        "Your focus on both traffic and conversions suggests a need for content that balances SEO optimization with strong calls-to-action.",
+        "Your interest in both blogs and case studies suggests a good opportunity for a pillar content strategy with detailed educational resources.",
+        "A competitive analysis of your mentioned competitors will help identify content gaps and opportunities."
+    ],
+    "timestamp": "2025-04-02 02:14:31",
+    "sections": [
+        "business_information",
+        "target_audience",
+        "seo_goals",
+        "competitor_analysis",
+        "content_preferences"
+    ]
+}

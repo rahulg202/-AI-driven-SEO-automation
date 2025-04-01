@@ -1,0 +1,58 @@
+{
+    "form_data": {
+        "company_name": "Astute AI",
+        "website_url": "https://www.astuteai.in/",
+        "industry": "software development",
+        "business_description": "we provide seo serices, automated seo using gen ai",
+        "age_group": [
+            "18-24",
+            "35-44",
+            "25-34",
+            "45-54",
+            "55+"
+        ],
+        "gender": [
+            "Male",
+            "Female",
+            "Other"
+        ],
+        "profession": "startup founders",
+        "interests_pain_points": "lack of technical knowledge, tedious process ",
+        "geo_regions": [
+            "Specific Countries",
+            "Specific Cities",
+            "Global"
+        ],
+        "purchasing_behavior": "Online",
+        "main_goals": [
+            "Rank for specific keywords",
+            "Reduce bounce rate",
+            "Boost sales and conversions"
+        ],
+        "seo_type": "Local SEO",
+        "target_keywords": "automate, innovation, execution",
+        "main_competitors": "tredence analytics",
+        "competitor_websites": "https://www.tredence.com/",
+        "tone": "Formal",
+        "content_types": [
+            "Blogs/Articles",
+            "Case Studies"
+        ],
+        "existing_content": "Yes"
+    },
+    "follow_up_data": {},
+    "insights": [
+        "Your focus on younger demographics suggests social media platforms like Instagram and TikTok could be valuable channels.",
+        "Your target audience includes older demographics who typically value reliability and detailed information.",
+        "Your interest in both blogs and case studies suggests a good opportunity for a pillar content strategy with detailed educational resources.",
+        "A competitive analysis of your mentioned competitors will help identify content gaps and opportunities."
+    ],
+    "timestamp": "2025-04-02 02:01:40",
+    "sections": [
+        "business_information",
+        "target_audience",
+        "seo_goals",
+        "competitor_analysis",
+        "content_preferences"
+    ]
+}

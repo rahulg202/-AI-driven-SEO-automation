@@ -1,0 +1,58 @@
+==================================================
+SEO ANALYSIS REPORT
+==================================================
+
+URL: https://www.astuteai.in/
+Date: 02.April 2025
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+
+
+--------------------------------------------------
+ON-PAGE SEO FACTORS
+--------------------------------------------------
+
+Title Tag: Astute AI
+Length: 9 characters, 2 words
+Issues:
+  - Title is too short
+  - Title has too few words
+
+Meta Description: One stop solution for all your Startup needs
+Length: 44 characters, 8 words
+Issues:
+  - Meta description is too short
+  - Meta description has too few words
+
+Text Content: 383 words
+Issues:
+  - Text length should be more than 400 words
+
+--------------------------------------------------
+SEMANTIC ANALYSIS
+--------------------------------------------------
+
+Top Keywords:
+  - your (Count: 11, Density: 3.18%)
+  - astute (Count: 8, Density: 2.31%)
+  - social (Count: 7, Density: 2.02%)
+  - our (Count: 6, Density: 1.73%)
+  - tools (Count: 5, Density: 1.45%)
+
+Readability Score: 33
+Readability Level: Difficult
+
+--------------------------------------------------
+CONTENT STRUCTURE
+--------------------------------------------------
+
+Most Common Words:
+  - and: 17
+  - with: 12
+  - your: 11
+  - the: 9
+  - astute: 8
+  - social: 7
+  - our: 6
+  - for: 6
+  - tools: 5
+  - seo: 5

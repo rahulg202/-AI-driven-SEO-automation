@@ -1,0 +1,61 @@
+{
+    "form_data": {
+        "company_name": "ion group",
+        "website_url": "https://iongroup.com/",
+        "industry": "financial data and software company",
+        "business_description": "ION software helps you improve decision-making, increase efficiency, simplify complex processes and empower your people.\n \nWe enable financial institutions, central banks and corporations to digitize and automate their most business critical processes.",
+        "age_group": [
+            "25-34",
+            "18-24",
+            "35-44",
+            "45-54",
+            "55+"
+        ],
+        "gender": [
+            "Male",
+            "Female",
+            "Other"
+        ],
+        "profession": "professionals",
+        "interests_pain_points": "automating, execution",
+        "geo_regions": [
+            "Specific Countries",
+            "Specific Cities",
+            "Global"
+        ],
+        "purchasing_behavior": "Online",
+        "main_goals": [
+            "Rank for specific keywords",
+            "Increase organic traffic",
+            "Improve brand visibility",
+            "Boost sales and conversions",
+            "Reduce bounce rate"
+        ],
+        "seo_type": "Local SEO",
+        "target_keywords": "automate, execution, innvoation, imagination",
+        "main_competitors": "tredence analytics",
+        "competitor_websites": "https://www.tredence.com/",
+        "tone": "Persuasive",
+        "content_types": [
+            "Blogs/Articles",
+            "Case Studies"
+        ],
+        "existing_content": "Yes"
+    },
+    "follow_up_data": {},
+    "insights": [
+        "Your focus on younger demographics suggests social media platforms like Instagram and TikTok could be valuable channels.",
+        "Your target audience includes older demographics who typically value reliability and detailed information.",
+        "Your focus on both traffic and conversions suggests a need for content that balances SEO optimization with strong calls-to-action.",
+        "Your interest in both blogs and case studies suggests a good opportunity for a pillar content strategy with detailed educational resources.",
+        "A competitive analysis of your mentioned competitors will help identify content gaps and opportunities."
+    ],
+    "timestamp": "2025-04-02 01:55:14",
+    "sections": [
+        "business_information",
+        "target_audience",
+        "seo_goals",
+        "competitor_analysis",
+        "content_preferences"
+    ]
+}
